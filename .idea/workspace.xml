@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="G:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -139,6 +139,7 @@
       <workItem from="1569757275995" duration="229000" />
       <workItem from="1569758400303" duration="645000" />
       <workItem from="1569759567115" duration="823000" />
+      <workItem from="1569761312931" duration="149000" />
     </task>
     <servers />
   </component>
