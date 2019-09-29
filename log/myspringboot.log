@@ -1,0 +1,33 @@
+2019-09-27 22:34:45.505  INFO 12204 --- [main] com.cs.Demo7Application                  : Starting Demo7Application on DESKTOP-UTFSE8L with PID 12204 (G:\IDEA_workspace\Spring\springboot\demo7_mybatis\target\classes started by adminPC in G:\IDEA_workspace\Spring\springboot)
+2019-09-27 22:34:45.510  INFO 12204 --- [main] com.cs.Demo7Application                  : No active profile set, falling back to default profiles: default
+2019-09-27 22:34:47.824  INFO 12204 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-09-27 22:34:47.881  INFO 12204 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-27 22:34:47.882  INFO 12204 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-27 22:34:48.229  INFO 12204 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-27 22:34:48.230  INFO 12204 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2649 ms
+2019-09-27 22:34:48.711  INFO 12204 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-27 22:34:49.088  INFO 12204 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-27 22:34:49.092  INFO 12204 --- [main] com.cs.Demo7Application                  : Started Demo7Application in 4.152 seconds (JVM running for 5.481)
+2019-09-27 22:34:55.231  INFO 12204 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-27 22:34:55.231  INFO 12204 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-27 22:34:55.238  INFO 12204 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-09-27 22:34:55.284  INFO 12204 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-09-27 22:34:55.476  INFO 12204 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-09-27 22:40:23.145  INFO 14544 --- [main] com.cs.Demo7Application                  : Starting Demo7Application on DESKTOP-UTFSE8L with PID 14544 (G:\IDEA_workspace\Spring\springboot\demo7_mybatis\target\classes started by adminPC in G:\IDEA_workspace\Spring\springboot)
+2019-09-27 22:40:23.150  INFO 14544 --- [main] com.cs.Demo7Application                  : No active profile set, falling back to default profiles: default
+2019-09-27 22:40:24.504  INFO 14544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-09-27 22:40:24.535  INFO 14544 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-27 22:40:24.536  INFO 14544 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-27 22:40:24.687  INFO 14544 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-27 22:40:24.687  INFO 14544 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1500 ms
+2019-09-27 22:40:25.205  INFO 14544 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-27 22:40:25.577  INFO 14544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-27 22:40:25.580  INFO 14544 --- [main] com.cs.Demo7Application                  : Started Demo7Application in 2.893 seconds (JVM running for 5.778)
+2019-09-27 22:40:34.967  INFO 14544 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-27 22:40:34.968  INFO 14544 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-27 22:40:34.976  INFO 14544 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-09-27 22:40:35.024  INFO 14544 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-09-27 22:40:35.237  INFO 14544 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-09-27 22:40:35.247 DEBUG 14544 --- [http-nio-8080-exec-1] com.cs.mapper.UserMapper.selectUserById  : ==>  Preparing: select id,username,password,gender,age from user_t where id = ? 
+2019-09-27 22:40:35.269 DEBUG 14544 --- [http-nio-8080-exec-1] com.cs.mapper.UserMapper.selectUserById  : ==> Parameters: 3(Integer)
+2019-09-27 22:40:35.285 DEBUG 14544 --- [http-nio-8080-exec-1] com.cs.mapper.UserMapper.selectUserById  : <==      Total: 1

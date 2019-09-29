@@ -1,0 +1,19 @@
+#userz.username=lisi
+#userz.password=123456
+#userz.age=18
+#userz.hobbies=sing,jump,football
+#userz.married=true
+#userz.map[key1]=hello
+#userz.map[key2]=hello2
+
+userz:
+  username: zhangsan
+  password: 654321
+  age: 21
+  married: true
+  #hobbies: dance,swim,football
+  map: {key1: value1,key2: value2}
+  hobbies:
+    - drink
+    - swim
+    - jog

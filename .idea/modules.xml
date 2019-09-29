@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo1/demo1.iml" filepath="$PROJECT_DIR$/demo1/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2/demo2.iml" filepath="$PROJECT_DIR$/demo2/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo3_setValue/demo3_setValue.iml" filepath="$PROJECT_DIR$/demo3_setValue/demo3_setValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo4_web/demo4_web.iml" filepath="$PROJECT_DIR$/demo4_web/demo4_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo6_fm/demo6_fm.iml" filepath="$PROJECT_DIR$/demo6_fm/demo6_fm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo7_mybatis/demo7_mybatis.iml" filepath="$PROJECT_DIR$/demo7_mybatis/demo7_mybatis.iml" />
+    </modules>
+  </component>
+</project>

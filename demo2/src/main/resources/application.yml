@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: beta
+---
+spring:
+  profiles: alpha
+server:
+  port: 8082
+
+
+---
+spring:
+  profiles: beta
+server:
+  port: 8081

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f175d955-d523-4417-ab26-98f65317ff48" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="G:/" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/develop/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\develop\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RNOIOXhKyCq3G4OrY8BrXXluHQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\IDEA_workspace\Spring\springboot\demo7_mybatis\src\main\resources\com\cs\mapper" />
+      <recent name="G:\IDEA_workspace\Spring\springboot\demo4_web\src\main\resources\config" />
+      <recent name="G:\IDEA_workspace\Spring\springboot\demo4_web\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\IDEA_workspace\Spring\springboot\demo4_web\src\main\resources\config" />
+      <recent name="G:\IDEA_workspace\Spring\springboot\demo4_web\src\main\resources" />
+      <recent name="G:\IDEA_workspace\Spring\springboot\demo3_setValue\src\main\resources" />
+      <recent name="G:\IDEA_workspace\Spring\springboot\demo2\target\classes" />
+      <recent name="G:\IDEA_workspace\Spring\springboot\demo2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Demo7Application">
+    <configuration name="Demo1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cs.springboot.demo1.Demo1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cs.Demo2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo3_setValue" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cs.Demo3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo4_web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cs.Demo4Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo6Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo6_fm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cs.Demo6Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo7Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo7_mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cs.Demo7Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f175d955-d523-4417-ab26-98f65317ff48" name="Default Changelist" comment="" />
+      <created>1569504006244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569504006244</updated>
+      <workItem from="1569504009099" duration="67000" />
+      <workItem from="1569504085224" duration="4427000" />
+      <workItem from="1569565100383" duration="15985000" />
+      <workItem from="1569672357377" duration="1231000" />
+      <workItem from="1569756473147" duration="544000" />
+      <workItem from="1569757275995" duration="229000" />
+      <workItem from="1569758400303" duration="645000" />
+      <workItem from="1569759567115" duration="823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
