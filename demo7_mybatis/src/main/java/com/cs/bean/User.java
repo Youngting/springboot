@@ -6,6 +6,7 @@ package com.cs.bean;
  * e-mail : clemeting@qq.com
  */
 public class User {
+    //this is user
     private int id;
     private String username;
     private String password;
